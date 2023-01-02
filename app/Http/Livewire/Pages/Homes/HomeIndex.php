@@ -2,6 +2,7 @@
 
 namespace App\Http\Livewire\Pages\Homes;
 
+use App\Events\MessageCreated;
 use Livewire\Component;
 
 class HomeIndex extends Component
